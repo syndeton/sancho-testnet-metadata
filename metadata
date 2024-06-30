@@ -27,7 +27,7 @@
         "dRepName": "CIPQQQ:dRepName",
         "bio": "CIPQQQ:bio",
         "email": "CIPQQQ:email".
-        "image": "CIPQQQ:image"
+        "image": "CIPQQQ:image",
       }
     },
     "authors": {
