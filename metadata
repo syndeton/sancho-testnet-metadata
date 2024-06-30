@@ -51,19 +51,19 @@
   },
   "body": {
     "bio": {
-      "@value": " "
+      "@value": ""
     },
     "dRepName": {
       "@value": "[AKANE] MAIDS"
     },
     "email": {
-      "@value": " "
+      "@value": ""
     },
     "references": [
       {
         "@type": "Other",
         "label": {
-          "@value": " "
+          "@value": ""
         },
         "uri": {
           "@value": "https://www.youtube.com/watch?v=yfORoQIqB3E"
