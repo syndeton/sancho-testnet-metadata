@@ -54,19 +54,19 @@
       "@value": ""
     },
     "dRepName": {
-      "@value": "Ticker/Name"
+      "@value": "JDoe"
     },
     "email": {
-      "@value": ""
+      "@value": "JDoe@gmail.com"
     },
     "references": [
       {
         "@type": "Other",
         "label": {
-          "@value": ""
+          "@value": "Label"
         },
         "uri": {
-          "@value": ""
+          "@value": "https://jdoe.info"
         }
       }
     ]
