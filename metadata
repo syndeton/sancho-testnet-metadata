@@ -51,10 +51,10 @@
   },
   "body": {
     "bio": {
-      "@value": "nothing"
+      "@value": " "
     },
     "dRepName": {
-      "@value": "Name Here"
+      "@value": "Test"
     },
     "email": {
       "@value": " "
@@ -63,10 +63,10 @@
       {
         "@type": "Other",
         "label": {
-          "@value": "nothing"
+          "@value": " "
         },
         "uri": {
-          "@value": "https://tinyurl.com/mr4xru4c"
+          "@value": " "
         }
       }
     ]
