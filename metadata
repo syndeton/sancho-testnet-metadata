@@ -51,22 +51,22 @@
   },
   "body": {
     "bio": {
-      "@value":
+      "@value": "nothing"
     },
     "dRepName": {
       "@value": "Name Here"
     },
     "email": {
-      "@value":
+      "@value": "nothing@gmail.com"
     },
     "references": [
       {
         "@type": "Other",
         "label": {
-          "@value":
+          "@value": "nothing"
         },
         "uri": {
-          "@value":
+          "@value": "https://tinyurl.com/mr4xru4c"
         }
       }
     ]
