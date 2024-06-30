@@ -56,9 +56,6 @@
     "dRepName": {
       "@value": "Name Here"
     },
-    "email": {
-      "@value": "nothing@gmail.com"
-    },
     "references": [
       {
         "@type": "Other",
