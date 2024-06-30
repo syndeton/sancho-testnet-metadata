@@ -57,7 +57,7 @@
       "@value": "Name Here"
     },
     "email": {
-      "@value": "null"
+      "@value": " "
     },
     "references": [
       {
